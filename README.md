@@ -1,2 +1,4 @@
-# Crypto-Project
-We earn some money w a lil crypto!
+<pre align="center"><h1>Crypto Project</h1></pre>
+
+
+

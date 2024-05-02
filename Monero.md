@@ -1,8 +1,8 @@
 <pre align="center">
   <h1><span>Monero / Randomx</span> <img src="img/monero-logo.png" alt="Logo" width="25" height="25"></h1>
-</pre>
-<center><h>kaspa:48SbFrFAitEExDSXJ24vz3aYRSsp16JYDY6tFDdAAp9v9GbGnSwbuWfYKjdCpUcPheaepBwPqVYDoFUz6bvkgCN3CBGRBcF</h></center>
 
+<center><h>kaspa:48SbFrFAitEExDSXJ24vz3aYRSsp16JYDY6tFDdAAp9v9GbGnSwbuWfYKjdCpUcPheaepBwPqVYDoFUz6bvkgCN3CBGRBcF</h></center>
+</pre>
 ## Wallets:
 
 **Web-Wallet:** [XMRWALLET](https://www.xmrwallet.com/app.html#/dashboard.html)

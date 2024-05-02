@@ -1,8 +1,7 @@
 <pre align="center">
   <h1><span>Monero / Randomx</span> <img src="img/monero-logo.png" alt="Logo" width="25" height="25"></h1>
-  <h>48SbFrFAitEExDSXJ24vz3aYRSsp16JYDY6tFDdAAp9v9GbGnSwbuWfYKjdCpUcPheaepBwPqVYDoFUz6bvkgCN3CBGRBcF</h>
 </pre>
-
+<center><h>kaspa:48SbFrFAitEExDSXJ24vz3aYRSsp16JYDY6tFDdAAp9v9GbGnSwbuWfYKjdCpUcPheaepBwPqVYDoFUz6bvkgCN3CBGRBcF</h></center>
 
 ## Wallets:
 

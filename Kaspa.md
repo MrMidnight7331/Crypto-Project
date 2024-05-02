@@ -1,7 +1,11 @@
-<div style="text-align: center;">
-  <h1><span>Kaspa / Kheavyhash</span> <img src="img/kaspa-logo.png" alt="Logo" width="25" height="25"></h1>
-  <p>kaspa:qqlrk5y9kzdru9z3zngh2p9zn8zd5nccnl8rnpn3u35u72xf84qd7wtm7xnqe</p>
+<div align="center">
+
+# Kaspa / Kheavyhash ![](img/kaspa-logo.png)
+
+kaspa:qqlrk5y9kzdru9z3zngh2p9zn8zd5nccnl8rnpn3u35u72xf84qd7wtm7xnqe
+
 </div>
+
 
 
 ## Wallets:

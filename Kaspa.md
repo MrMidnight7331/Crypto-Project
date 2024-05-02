@@ -76,3 +76,21 @@
 
 4. Mining:
     - IP: `stratum+tcp://ip-of-server:5555`
+
+### Miner Setup:
+
+**[BzMiner](https://github.com/bzminer/bzminer/releases):**
+```bash
+./bzminer -a kaspa -w YOUR_KASPA_WALLET_ADDRESS -p stratum+tcp://ip-of-server
+```
+
+**[lolminer](https://github.com/Lolliedieb/lolMiner-releases/releases):**
+```bash
+./lolMiner --algo KASPA --pool stratum+tcp://ip-of-server --user YOUR_KASPA_WALLET_ADDRESS.YOUR_WORKER_NAME
+```
+
+**[Gminer](https://github.com/develsoftware/GMinerRelease/releases):**
+
+```bash
+./miner --algo kheavyhash --server stratum+tcp://ip-of-server --user YOUR_KASPA_WALLET_ADDRESS.YOUR_WORKER_NAME
+```

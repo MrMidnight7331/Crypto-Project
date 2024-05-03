@@ -1,5 +1,5 @@
 <pre align="center">
-  <h1><span>Phyrin / Pyrinhash</span> <img src="img/pyrin-logo.png" alt="Logo" width="25" height="25"></h1>
+  <h1><span>Pyrin / Pyrinhash</span> <img src="img/pyrin-logo.png" alt="Logo" width="25" height="25"></h1>
   <h>pyrin:qz7s9fa544jg4lsmc5r4wlugdz3dx5acjqfpw2vu0x8gu5077arxufa3dlgu7</h>
 </pre>
 

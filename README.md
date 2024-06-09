@@ -5,8 +5,8 @@
     <a href="Monero/Monero.md"><img src="Monero/img/monero-logo.png" alt="monero" width="40" height="40"/></a>
     <a href="Kaspa/Kaspa.md"><img src="Kaspa/img/kaspa-logo.png" alt="kaspa" width="40" height="40"/></a>
     <a href="Pyrin/Pyrin.md"><img src="Pyrin/img/pyrin-logo.png" alt="pyrin" width="40" height="40"/></a>
-    sedra
-    bugna
+    sedra: sedra:qq8kulknw9djdlkvakaq0pr6nhczvk20h3u2v67ddgmmyhqhnhwcu3s30jqqk
+    bugna: bugna:qrwhvhfeqf2t9jagjydc37za66rezjw7rpeywa6e9na9nl3t6rkkvjzc5dmv9
 </p>
     
 ## <samp> Coins I use actively: </samp>

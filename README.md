@@ -5,16 +5,16 @@
     <a href="Monero/Monero.md"><img src="Monero/img/monero-logo.png" alt="monero" width="40" height="40"/></a>
     <a href="Kaspa/Kaspa.md"><img src="Kaspa/img/kaspa-logo.png" alt="kaspa" width="40" height="40"/></a>
     <a href="Pyrin/Pyrin.md"><img src="Pyrin/img/pyrin-logo.png" alt="pyrin" width="40" height="40"/></a>
-    sedra: sedra:qq8kulknw9djdlkvakaq0pr6nhczvk20h3u2v67ddgmmyhqhnhwcu3s30jqqk
-    bugna: bugna:qrwhvhfeqf2t9jagjydc37za66rezjw7rpeywa6e9na9nl3t6rkkvjzc5dmv9
+    <a href="Sedra/Sedra.md"><img src="Sedra/img/sedra-logo.webp" alt="pyrin" width="40" height="40"/></a>
+    <a href="Bugna/Bugna.md"><img src="Bugna/img/bugna-logo.png" alt="pyrin" width="40" height="40"/></a>
 </p>
     
 ## <samp> Coins I use actively: </samp>
 <p align="left">
     <img src="img/ethereum-logo.png" alt="ethereum" width="40" height="40"/>
     <img src="img/solana-logo.png" alt="solana" width="40" height="40"/>
-    matic
-    ronin
+    <img src="img/matic-logo.png" alt="matic" width="40" height="40"/>
+    <img src="img/ronin-logo.png" alt="ronin" width="40" height="40"/>
 </p>
 
 ## <samp> Coins I'm holding: </samp>
@@ -31,10 +31,16 @@
         <a href="https://www.goldshell.com/product/goldshell-ka-box/">
             <img src="img/goldshell-ka-box.webp" alt="gs ka box" width="100" height="100"/>
         </a>
+        <a href="https://icerivers.io/shop/iceriver-ks0-ultra/">
+            <img src="img/iceriver-ks0-ultra.png" alt="iceriver ks0 ultra" width="110" height="100"/>
+        </a>
+        <a href="https://bitaxe.org">
+            <img src="img/bitaxe-1366.png" alt="bitaxe 1366" width="110" height="100"/>
+        </a>
         <br>
-        <span>Goldshell KA-BOX</span>
-        ks0 ultra
-        bitaxe
+        <span>Goldshell KA-BOX |</span>
+        <span>Iceriver Ks0 Ultra |</span>
+        <span>Bitaxe 1366 Ultra </span>
     </div>
 </p>
 

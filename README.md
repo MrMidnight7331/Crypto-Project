@@ -5,14 +5,25 @@
     <a href="Monero/Monero.md"><img src="Monero/img/monero-logo.png" alt="monero" width="40" height="40"/></a>
     <a href="Kaspa/Kaspa.md"><img src="Kaspa/img/kaspa-logo.png" alt="kaspa" width="40" height="40"/></a>
     <a href="Pyrin/Pyrin.md"><img src="Pyrin/img/pyrin-logo.png" alt="pyrin" width="40" height="40"/></a>
+    sedra
+    bugna
 </p>
     
 ## <samp> Coins I use actively: </samp>
+<p align="left">
+    <img src="img/ethereum-logo.png" alt="ethereum" width="40" height="40"/>
+    <img src="img/solana-logo.png" alt="solana" width="40" height="40"/>
+    matic
+    ronin
+</p>
+
+## <samp> Coins I'm holding: </samp>
 <p align="left">
     <img src="img/bitcoin-logo.png" alt="bitcoin" width="40" height="40"/>
     <img src="img/ethereum-logo.png" alt="ethereum" width="40" height="40"/>
     <img src="img/solana-logo.png" alt="solana" width="40" height="40"/>
 </p>
+
 
 ## <samp> ASICS I use: </samp>
 <p align="left">
@@ -22,6 +33,8 @@
         </a>
         <br>
         <span>Goldshell KA-BOX</span>
+        ks0 ultra
+        bitaxe
     </div>
 </p>
 
